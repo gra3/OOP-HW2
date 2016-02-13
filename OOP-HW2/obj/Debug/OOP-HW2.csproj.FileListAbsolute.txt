@@ -1,1 +1,6 @@
 C:\Users\George\Dropbox\Spring 2016\OOP\OOP-HW2\OOP-HW2\bin\Debug\OOP-HW2.exe.config
+C:\Users\George\Dropbox\Spring 2016\OOP\OOP-HW2\OOP-HW2\obj\Debug\OOP-HW2.csprojResolveAssemblyReference.cache
+C:\Users\George\Dropbox\Spring 2016\OOP\OOP-HW2\OOP-HW2\bin\Debug\OOP-HW2.exe
+C:\Users\George\Dropbox\Spring 2016\OOP\OOP-HW2\OOP-HW2\bin\Debug\OOP-HW2.pdb
+C:\Users\George\Dropbox\Spring 2016\OOP\OOP-HW2\OOP-HW2\obj\Debug\OOP-HW2.exe
+C:\Users\George\Dropbox\Spring 2016\OOP\OOP-HW2\OOP-HW2\obj\Debug\OOP-HW2.pdb
